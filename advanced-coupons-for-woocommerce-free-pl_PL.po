@@ -22,12 +22,12 @@ msgstr ""
 #. Plugin Name of the plugin
 #: advanced-coupons-for-woocommerce-free.php
 msgid "Advanced Coupons for WooCommerce Free"
-msgstr ""
+msgstr "Zaawansowane kupony dla WooCommerce - wersja darmowa"
 
 #. Plugin URI of the plugin
 #: advanced-coupons-for-woocommerce-free.php
 msgid "https://advancedcouponsplugin.com"
-msgstr ""
+msgstr "https://advancedcouponsplugin.com"
 
 #. Description of the plugin
 #: advanced-coupons-for-woocommerce-free.php
@@ -35,48 +35,51 @@ msgid ""
 "Advanced Coupons for WooCommerce (Free Version) gives WooCommerce store "
 "owners extra coupon features so they can market their stores better."
 msgstr ""
+"Zaawansowane kupony dla WooCommerce (wersja darmowa) dają właścicielom "
+"sklepów WooCommerce dodatkowe funkcje kuponów, dzięki czemu mogą lepiej "
+"promować swoje sklepy."
 
 #. Author of the plugin
 #: advanced-coupons-for-woocommerce-free.php
 msgid "Rymera Web Co"
-msgstr ""
+msgstr "Rymera Web Co"
 
 #. Author URI of the plugin
 #: advanced-coupons-for-woocommerce-free.php
 msgid "https://rymera.com.au"
-msgstr ""
+msgstr "https://rymera.com.au"
 
 #. Translators: %s: Coupon usage total value
 #: Abstracts/Abstract_Coupons_Report_Widget.php:142
 msgid "%s use"
 msgid_plural "%s uses"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
+msgstr[0] "%s użycie"
+msgstr[1] "%s użycia"
+msgstr[2] "%s użyć"
 
 #: Abstracts/Abstract_Import_Points_Tool.php:82
 msgid "There are no customer store credits data to be imported."
-msgstr ""
+msgstr "Brak danych punktów sklepowych klientów do zaimportowania."
 
 #: advanced-coupons-for-woocommerce-free.php:243
 msgid "Activate this plugin"
-msgstr ""
+msgstr "Aktywuj ten plugin"
 
 #: advanced-coupons-for-woocommerce-free.php:243
 msgid "Click here to activate →"
-msgstr ""
+msgstr "Kliknij tutaj, aby aktywować →"
 
 #: advanced-coupons-for-woocommerce-free.php:244 Models/Upsell.php:1525
 msgid "Plugin detected"
-msgstr ""
+msgstr "Wykryto plugin"
 
 #: advanced-coupons-for-woocommerce-free.php:246
 msgid "Install this plugin"
-msgstr ""
+msgstr "Zainstaluj ten plugin"
 
 #: advanced-coupons-for-woocommerce-free.php:246
 msgid "Click here to install from WordPress.org repo →"
-msgstr ""
+msgstr "Kliknij tutaj, aby zainstalować z repozytorium WordPress.org →"
 
 #. Translators: %1$s: Plugin link. %2$s: Plugin name.
 #: advanced-coupons-for-woocommerce-free.php:251
@@ -84,67 +87,69 @@ msgid ""
 "Please ensure you have the <a href=\"%1$s\" target=\"_blank\">%2$s</a> "
 "plugin installed and activated.<br/>"
 msgstr ""
+"Upewnij się, że masz zainstalowany i aktywny plugin <a href=\"%1$s\" "
+"target=\"_blank\">%2$s</a>.<br/>"
 
 #: data/coupon-fields/auto-apply.php:8 Models/Upsell.php:903
 msgid "Auto Apply"
-msgstr ""
+msgstr "Automatyczne zastosowanie"
 
 #: data/coupon-fields/auto-apply.php:15
 msgid "Auto apply coupon"
-msgstr ""
+msgstr "Automatycznie zastosuj kupon"
 
 #: data/coupon-fields/auto-apply.php:16 Models/Upsell.php:122
 msgid "Enable auto apply for this coupon."
-msgstr ""
+msgstr "Włącz automatyczne zastosowanie tego kuponu."
 
 #: data/coupon-fields/general.php:8 Models/Objects/ACFW_Settings.php:75 
 #: Models/Objects/ACFW_Settings.php:375 Models/REST_API/API_Settings.php:452
 msgid "General"
-msgstr ""
+msgstr "Ogólne"
 
 #: data/coupon-fields/general.php:15
 msgid "Coupon Code"
-msgstr ""
+msgstr "Kod kuponu"
 
 #: data/coupon-fields/general.php:19 Models/Coupon_Templates.php:119
 msgid "Generate"
-msgstr ""
+msgstr "Generuj"
 
 #: data/coupon-fields/general.php:23 Models/Script_Loader.php:322
 msgid "Discount Type"
-msgstr ""
+msgstr "Typ rabatu"
 
 #: data/coupon-fields/general.php:27
 msgid "Fixed Cart Discount"
-msgstr ""
+msgstr "Stały rabat na koszyk"
 
 #: data/coupon-fields/general.php:28
 msgid "Percentage Discount"
-msgstr ""
+msgstr "Rabat procentowy"
 
 #: data/coupon-fields/general.php:29
 msgid "Fixed Product Discount"
-msgstr ""
+msgstr "Stały rabat na produkt"
 
 #: data/coupon-fields/general.php:30
 msgid "Percentage Cashback (store credits)"
-msgstr ""
+msgstr "Procentowy cashback (punkty sklepowe)"
 
 #: data/coupon-fields/general.php:31
 msgid "Fixed Cashback (store credits)"
-msgstr ""
+msgstr "Stały cashback (punkty sklepowe)"
 
 #: data/coupon-fields/general.php:37
 msgid "Coupon Amount"
-msgstr ""
+msgstr "Wartość kuponu"
 
 #: data/coupon-fields/general.php:40
 msgid "Value of the coupon"
-msgstr ""
+msgstr "Wartość kuponu"
 
 #: data/coupon-fields/general.php:44
 msgid "Free Shipping"
-msgstr ""
+msgstr "Darmowa wysyłka"
 
 #: data/coupon-fields/general.php:47
 msgid ""
@@ -152,22 +157,26 @@ msgid ""
 "must be enabled in your shipping zone and be set to require \"a valid free "
 "shipping coupon\" (see WooCommerce > Settings > Shipping > Shipping Zones)."
 msgstr ""
+"Zaznacz to pole, jeśli kupon zapewnia darmową wysyłkę. Metoda darmowej "
+"wysyłki musi być włączona w strefie wysyłki i ustawiona tak, aby wymagała "
+"\"ważnego kuponu na darmową wysyłkę\" (zobacz WooCommerce > Ustawienia > "
+"Wysyłka > Strefy wysyłki)."
 
 #: data/coupon-fields/general.php:51
 msgid "Force Apply URL Coupon"
-msgstr ""
+msgstr "Wymuś zastosowanie kuponu z URL"
 
 #: data/coupon-fields/general.php:55
 msgid "Disable"
-msgstr ""
+msgstr "Wyłącz"
 
 #: data/coupon-fields/general.php:56
 msgid "When applied via URL only"
-msgstr ""
+msgstr "Tylko gdy zastosowany przez URL"
 
 #: data/coupon-fields/general.php:57
 msgid "Always"
-msgstr ""
+msgstr "Zawsze"
 
 #: data/coupon-fields/general.php:59
 msgid ""
@@ -176,10 +185,206 @@ msgid ""
 "an auto applied coupon that you want to be removed when a conflicting coupon "
 "is applied."
 msgstr ""
+"Gdy włączone, sprzeczne kupony już zastosowane do koszyka zostaną zastąpione "
+"tym kuponem. Jest to przydatne zwłaszcza, jeśli masz automatycznie "
+"zastosowany kupon, który chcesz usunąć, gdy zastosowany zostanie sprzeczny "
+"kupon."
+
+# Copyright (C) 2025 Rymera Web Co
+# This file is distributed under the same license as the Advanced Coupons for WooCommerce Free plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Advanced Coupons for WooCommerce Free 4.6.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/advanced-coupons-"
+"for-woocommerce-free\n"
+"Last-Translator: \n"
+"Language-Team: Polski\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2025-06-20T03:26:17+00:00\n"
+"PO-Revision-Date: 2025-07-17 10:38+0000\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Domain: advanced-coupons-for-woocommerce-free\n"
+"Language: pl-PL\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10 >= 2 && n%10<=4 "
+"&&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"X-Loco-Version: 2.8.0; wp-6.8.2; php-8.4.8"
+
+#. Plugin Name of the plugin
+#: advanced-coupons-for-woocommerce-free.php
+msgid "Advanced Coupons for WooCommerce Free"
+msgstr "Zaawansowane kupony dla WooCommerce - wersja darmowa"
+
+#. Plugin URI of the plugin
+#: advanced-coupons-for-woocommerce-free.php
+msgid "https://advancedcouponsplugin.com"
+msgstr "https://advancedcouponsplugin.com"
+
+#. Description of the plugin
+#: advanced-coupons-for-woocommerce-free.php
+msgid ""
+"Advanced Coupons for WooCommerce (Free Version) gives WooCommerce store "
+"owners extra coupon features so they can market their stores better."
+msgstr ""
+"Zaawansowane kupony dla WooCommerce (wersja darmowa) dają właścicielom "
+"sklepów WooCommerce dodatkowe funkcje kuponów, dzięki czemu mogą lepiej "
+"promować swoje sklepy."
+
+#. Author of the plugin
+#: advanced-coupons-for-woocommerce-free.php
+msgid "Rymera Web Co"
+msgstr "Rymera Web Co"
+
+#. Author URI of the plugin
+#: advanced-coupons-for-woocommerce-free.php
+msgid "https://rymera.com.au"
+msgstr "https://rymera.com.au"
+
+#. Translators: %s: Coupon usage total value
+#: Abstracts/Abstract_Coupons_Report_Widget.php:142
+msgid "%s use"
+msgid_plural "%s uses"
+msgstr[0] "%s użycie"
+msgstr[1] "%s użycia"
+msgstr[2] "%s użyć"
+
+#: Abstracts/Abstract_Import_Points_Tool.php:82
+msgid "There are no customer store credits data to be imported."
+msgstr "Brak danych punktów sklepowych klientów do zaimportowania."
+
+#: advanced-coupons-for-woocommerce-free.php:243
+msgid "Activate this plugin"
+msgstr "Aktywuj ten plugin"
+
+#: advanced-coupons-for-woocommerce-free.php:243
+msgid "Click here to activate →"
+msgstr "Kliknij tutaj, aby aktywować →"
+
+#: advanced-coupons-for-woocommerce-free.php:244 Models/Upsell.php:1525
+msgid "Plugin detected"
+msgstr "Wykryto plugin"
+
+#: advanced-coupons-for-woocommerce-free.php:246
+msgid "Install this plugin"
+msgstr "Zainstaluj ten plugin"
+
+#: advanced-coupons-for-woocommerce-free.php:246
+msgid "Click here to install from WordPress.org repo →"
+msgstr "Kliknij tutaj, aby zainstalować z repozytorium WordPress.org →"
+
+#. Translators: %1$s: Plugin link. %2$s: Plugin name.
+#: advanced-coupons-for-woocommerce-free.php:251
+msgid ""
+"Please ensure you have the <a href=\"%1$s\" target=\"_blank\">%2$s</a> "
+"plugin installed and activated.<br/>"
+msgstr ""
+"Upewnij się, że masz zainstalowany i aktywny plugin <a href=\"%1$s\" "
+"target=\"_blank\">%2$s</a>.<br/>"
+
+#: data/coupon-fields/auto-apply.php:8 Models/Upsell.php:903
+msgid "Auto Apply"
+msgstr "Automatyczne zastosowanie"
+
+#: data/coupon-fields/auto-apply.php:15
+msgid "Auto apply coupon"
+msgstr "Automatycznie zastosuj kupon"
+
+#: data/coupon-fields/auto-apply.php:16 Models/Upsell.php:122
+msgid "Enable auto apply for this coupon."
+msgstr "Włącz automatyczne zastosowanie tego kuponu."
+
+#: data/coupon-fields/general.php:8 Models/Objects/ACFW_Settings.php:75 
+#: Models/Objects/ACFW_Settings.php:375 Models/REST_API/API_Settings.php:452
+msgid "General"
+msgstr "Ogólne"
+
+#: data/coupon-fields/general.php:15
+msgid "Coupon Code"
+msgstr "Kod kuponu"
+
+#: data/coupon-fields/general.php:19 Models/Coupon_Templates.php:119
+msgid "Generate"
+msgstr "Generuj"
+
+#: data/coupon-fields/general.php:23 Models/Script_Loader.php:322
+msgid "Discount Type"
+msgstr "Typ rabatu"
+
+#: data/coupon-fields/general.php:27
+msgid "Fixed Cart Discount"
+msgstr "Stały rabat na koszyk"
+
+#: data/coupon-fields/general.php:28
+msgid "Percentage Discount"
+msgstr "Rabat procentowy"
+
+#: data/coupon-fields/general.php:29
+msgid "Fixed Product Discount"
+msgstr "Stały rabat na produkt"
+
+#: data/coupon-fields/general.php:30
+msgid "Percentage Cashback (store credits)"
+msgstr "Procentowy cashback (punkty sklepowe)"
+
+#: data/coupon-fields/general.php:31
+msgid "Fixed Cashback (store credits)"
+msgstr "Stały cashback (punkty sklepowe)"
+
+#: data/coupon-fields/general.php:37
+msgid "Coupon Amount"
+msgstr "Wartość kuponu"
+
+#: data/coupon-fields/general.php:40
+msgid "Value of the coupon"
+msgstr "Wartość kuponu"
+
+#: data/coupon-fields/general.php:44
+msgid "Free Shipping"
+msgstr "Darmowa wysyłka"
+
+#: data/coupon-fields/general.php:47
+msgid ""
+"Check this box if the coupon grants free shipping. A free shipping method "
+"must be enabled in your shipping zone and be set to require \"a valid free "
+"shipping coupon\" (see WooCommerce > Settings > Shipping > Shipping Zones)."
+msgstr ""
+"Zaznacz to pole, jeśli kupon zapewnia darmową wysyłkę. Metoda darmowej "
+"wysyłki musi być włączona w strefie wysyłki i ustawiona tak, aby wymagała "
+"\"ważnego kuponu na darmową wysyłkę\" (zobacz WooCommerce > Ustawienia > "
+"Wysyłka > Strefy wysyłki)."
+
+#: data/coupon-fields/general.php:51
+msgid "Force Apply URL Coupon"
+msgstr "Wymuś zastosowanie kuponu z URL"
+
+#: data/coupon-fields/general.php:55
+msgid "Disable"
+msgstr "Wyłącz"
+
+#: data/coupon-fields/general.php:56
+msgid "When applied via URL only"
+msgstr "Tylko gdy zastosowany przez URL"
+
+#: data/coupon-fields/general.php:57
+msgid "Always"
+msgstr "Zawsze"
+
+#: data/coupon-fields/general.php:59
+msgid ""
+"When enabled, conflicting coupons that are already applied to the cart will "
+"be replaced with this coupon instead. This is useful especially if you have "
+"an auto applied coupon that you want to be removed when a conflicting coupon "
+"is applied."
+msgstr ""
+"Gdy włączone, sprzeczne kupony już zastosowane do koszyka zostaną zastąpione "
+"tym kuponem. Jest to przydatne zwłaszcza, jeśli masz automatycznie "
+"zastosowany kupon, który chcesz usunąć, gdy zastosowany zostanie sprzeczny "
+"kupon."
 
 #: data/coupon-fields/general.php:63
 msgid "Coupon Label"
-msgstr ""
+msgstr "Etykieta kuponu"
 
 #: data/coupon-fields/general.php:66
 msgid ""
@@ -187,32 +392,37 @@ msgid ""
 "{coupon_code} tag to this text and it will be replaced with the actual "
 "coupon code."
 msgstr ""
+"Zmień etykietę wyświetlaną dla kuponu w tabeli sum koszyka. Dodaj znacznik "
+"{coupon_code} do tego tekstu, a zostanie on zastąpiony rzeczywistym kodem "
+"kuponu."
 
 #: data/coupon-fields/general.php:69
 msgid "Show on my coupons page"
-msgstr ""
+msgstr "Pokaż na stronie moje kupony"
 
 #: data/coupon-fields/general.php:72
 msgid ""
 "When checked, this will show the coupon in all customers my coupons page."
 msgstr ""
+"Gdy zaznaczone, kupon będzie wyświetlany na stronie moich kuponów wszystkich "
+"klientów."
 
 #: data/coupon-fields/general.php:76
 msgid "Percentage discount cap"
-msgstr ""
+msgstr "Limit rabatu procentowego"
 
 #: data/coupon-fields/general.php:79
 msgid ""
 "The maximum discount amount value allowed for this percentage type coupon."
-msgstr ""
+msgstr "Maksymalna wartość rabatu dozwolona dla tego kuponu procentowego."
 
 #: data/coupon-fields/one-click-apply.php:8
 msgid "One Click Apply"
-msgstr ""
+msgstr "Zastosuj jednym kliknięciem"
 
 #: data/coupon-fields/one-click-apply.php:15
 msgid "Enable one click apply"
-msgstr ""
+msgstr "Włącz zastosowanie jednym kliknięciem"
 
 #: data/coupon-fields/one-click-apply.php:18
 msgid ""
@@ -220,71 +430,77 @@ msgid ""
 "which will then show a notification for customers in the cart when the "
 "coupon can be applied."
 msgstr ""
+"Gdy zaznaczone, włączy powiadomienia o zastosowaniu jednym kliknięciem dla "
+"tego kuponu, które będą pokazywane klientom w koszyku, gdy kupon może być "
+"zastosowany."
 
 #: data/coupon-fields/one-click-apply.php:22
 msgid "Notification nessage"
-msgstr ""
+msgstr "Treść powiadomienia"
 
 #: data/coupon-fields/one-click-apply.php:25
 msgid ""
 "The notification message that will be displayed after checking that the "
-"coupon is elegible in the customer’s cart."
+"coupon is elegible in the customer's cart."
 msgstr ""
+"Komunikat powiadomienia, który będzie wyświetlany po sprawdzeniu, że kupon "
+"jest dostępny w koszyku klienta."
 
 #: data/coupon-fields/one-click-apply.php:29
 msgid "Notification Button Text"
-msgstr ""
+msgstr "Tekst przycisku powiadomienia"
 
 #: data/coupon-fields/one-click-apply.php:32
 msgid "The text for the button to apply the coupon."
-msgstr ""
+msgstr "Tekst dla przycisku zastosowania kuponu."
 
 #: data/coupon-fields/one-click-apply.php:36
 msgid "Notification type"
-msgstr ""
+msgstr "Typ powiadomienia"
 
 #: data/coupon-fields/one-click-apply.php:40 Models/Edit_Coupon.php:643 
 #: Models/Objects/ACFW_Settings.php:334 
 #: views/coupons/view-cart-conditions-data-panel.php:71
 msgid "Info"
-msgstr ""
+msgstr "Informacja"
 
 #: data/coupon-fields/one-click-apply.php:41 Models/Edit_Coupon.php:644 
 #: Models/Objects/ACFW_Settings.php:335 
 #: views/coupons/view-cart-conditions-data-panel.php:72
 msgid "Success"
-msgstr ""
+msgstr "Sukces"
 
 #: data/coupon-fields/one-click-apply.php:42 Models/Edit_Coupon.php:645 
 #: Models/Objects/ACFW_Settings.php:336 
 #: views/coupons/view-cart-conditions-data-panel.php:70
 msgid "Error"
-msgstr ""
+msgstr "Błąd"
 
 #: data/coupon-fields/role-restrictions.php:8
 msgid "Role restrictions"
-msgstr ""
+msgstr "Ograniczenia ról"
 
 #: data/coupon-fields/role-restrictions.php:15
 msgid "Enable Role Restriction"
-msgstr ""
+msgstr "Włącz ograniczenia ról"
 
 #: data/coupon-fields/role-restrictions.php:18 Models/Edit_Coupon.php:473
 msgid ""
 "When checked, will enable role restrictions check when coupon is applied"
 msgstr ""
+"Gdy zaznaczone, włączy sprawdzanie ograniczeń ról podczas zastosowania kuponu"
 
 #: data/coupon-fields/role-restrictions.php:22 Models/Edit_Coupon.php:482
 msgid "Type"
-msgstr ""
+msgstr "Typ"
 
 #: data/coupon-fields/role-restrictions.php:26 Models/Edit_Coupon.php:487
 msgid "Allowed"
-msgstr ""
+msgstr "Dozwolone"
 
 #: data/coupon-fields/role-restrictions.php:27 Models/Edit_Coupon.php:488
 msgid "Disallowed"
-msgstr ""
+msgstr "Niedozwolone"
 
 #: data/coupon-fields/role-restrictions.php:29 Models/Edit_Coupon.php:483
 msgid ""
@@ -292,6 +508,9 @@ msgid ""
 "coupon only to users under the selected roles. Select \"disallowed\" to only "
 "allow coupon to users that don't fall under the selected roles."
 msgstr ""
+"Typ implementacji tego ograniczenia. Wybierz \"dozwolone\", aby umożliwić "
+"kupon tylko użytkownikom o wybranych rolach. Wybierz \"niedozwolone\", aby "
+"umożliwić kupon tylko użytkownikom, którzy nie mają wybranych ról."
 
 #: data/coupon-fields/role-restrictions.php:36 Models/Edit_Coupon.php:500
 msgid ""
@@ -299,107 +518,124 @@ msgid ""
 "you include admin and shop manager roles if you want them to be able to test "
 "this coupon. Guests are defined as logged out users."
 msgstr ""
+"Role użytkowników, które powinny/nie powinny mieć dostęp do tego kuponu. "
+"Upewnij się, że uwzględniasz role administratora i menedżera sklepu, jeśli "
+"chcesz, aby mogli testować ten kupon. Goście to niezalogowani użytkownicy."
 
 #: data/coupon-fields/role-restrictions.php:39 Models/Edit_Coupon.php:512
 msgid "Invalid role error message"
-msgstr ""
+msgstr "Komunikat błędu nieprawidłowej roli"
 
 #: data/coupon-fields/role-restrictions.php:42 Models/Edit_Coupon.php:513
 msgid ""
 "The message that should be displayed to users if they are not allowed to "
 "apply this coupon."
 msgstr ""
+"Komunikat, który powinien być wyświetlany użytkownikom, jeśli nie mogą "
+"zastosować tego kuponu."
 
 #: data/coupon-fields/role-restrictions.php:43 Models/Edit_Coupon.php:516 
 #: Models/Objects/ACFW_Settings.php:634 Models/Role_Restrictions.php:139
 msgid "You are not allowed to use this coupon."
-msgstr ""
+msgstr "Nie masz uprawnień do użycia tego kuponu."
 
 #: data/coupon-fields/scheduler.php:8 Models/Edit_Coupon.php:692 
 #: Models/Edit_Coupon.php:711 Models/Objects/ACFW_Settings.php:84 
 #: Models/Objects/ACFW_Settings.php:254 Models/Objects/ACFW_Settings.php:459 
 #: Models/REST_API/API_Settings.php:473
 msgid "Scheduler"
-msgstr ""
+msgstr "Harmonogram"
 
 #: data/coupon-fields/scheduler.php:15
 msgid "Enable Scheduler"
-msgstr ""
+msgstr "Włącz harmonogram"
 
 #: data/coupon-fields/scheduler.php:18
 msgid ""
 "When checked, this will enable scheduler for this coupon which will then "
 "show a notification for customers in the cart when the coupon can be applied."
 msgstr ""
+"Gdy zaznaczone, włączy harmonogram dla tego kuponu, który będzie pokazywał "
+"powiadomienie klientom w koszyku, gdy kupon może być zastosowany."
 
 #: data/coupon-fields/scheduler.php:26 Models/Edit_Coupon.php:722
 msgid "Coupon start date"
-msgstr ""
+msgstr "Data rozpoczęcia kuponu"
 
 #: data/coupon-fields/scheduler.php:29
 msgid ""
 "The exact date the coupon will be available from. Based on the timezone in "
-"this WordPress installation’s settings."
+"this WordPress installation's settings."
 msgstr ""
+"Dokładna data, od której kupon będzie dostępny. Na podstawie strefy czasowej "
+"w ustawieniach tej instalacji WordPress."
 
 #: data/coupon-fields/scheduler.php:33 Models/Edit_Coupon.php:735
 msgid "Coupon start error message"
-msgstr ""
+msgstr "Komunikat błędu rozpoczęcia kuponu"
 
 #: data/coupon-fields/scheduler.php:35 Models/Edit_Coupon.php:736
 msgid ""
 "Show a custom error message to customers that try to apply this coupon "
 "before it is available."
 msgstr ""
+"Pokaż niestandardowy komunikat błędu klientom próbującym zastosować ten kupon "
+"przed jego dostępnością."
 
 #: data/coupon-fields/scheduler.php:39 Models/Edit_Coupon.php:747
 msgid "Coupon expiry date"
-msgstr ""
+msgstr "Data wygaśnięcia kuponu"
 
 #: data/coupon-fields/scheduler.php:42
 msgid ""
 "The exact date the coupon will be expired. Based on the timezone in this "
-"WordPress installation’s settings."
+"WordPress installation's settings."
 msgstr ""
+"Dokładna data wygaśnięcia kuponu. Na podstawie strefy czasowej w ustawieniach "
+"tej instalacji WordPress."
 
 #: data/coupon-fields/scheduler.php:46 Models/Edit_Coupon.php:760
 msgid "Coupon expire error message"
-msgstr ""
+msgstr "Komunikat błędu wygaśnięcia kuponu"
 
 #: data/coupon-fields/scheduler.php:48 Models/Edit_Coupon.php:761
 msgid ""
 "Show a custom error message to customers that try to apply this coupon after "
 "it has expired."
 msgstr ""
+"Pokaż niestandardowy komunikat błędu klientom próbującym zastosować ten kupon "
+"po jego wygaśnięciu."
 
 #: data/coupon-fields/url-coupons.php:8 Models/Edit_Coupon.php:291 
 #: Models/Edit_Coupon.php:314 Models/Objects/ACFW_Settings.php:92 
 #: Models/Objects/ACFW_Settings.php:214 Models/Objects/ACFW_Settings.php:506 
 #: Models/REST_API/API_Settings.php:487 views/getting-started/index.php:138
 msgid "URL Coupons"
-msgstr ""
+msgstr "Kupony URL"
 
 #: data/coupon-fields/url-coupons.php:15
 msgid "Enable coupon URL"
-msgstr ""
+msgstr "Włącz URL kuponu"
 
 #: data/coupon-fields/url-coupons.php:18 Models/Edit_Coupon.php:326
 msgid ""
 "When checked, it enables the coupon url functionality for the current coupon."
 msgstr ""
+"Gdy zaznaczone, włącza funkcjonalność URL kuponu dla bieżącego kuponu."
 
 #: data/coupon-fields/url-coupons.php:22
 msgid "Coupon URL override"
-msgstr ""
+msgstr "Nadpisanie URL kuponu"
 
 #: data/coupon-fields/url-coupons.php:23 Models/Edit_Coupon.php:348
 msgid ""
 "Customize the coupon code on the coupon url. Leave blank to disable feature."
 msgstr ""
+"Dostosuj kod kuponu w adresie URL kuponu. Pozostaw puste, aby wyłączyć funkcję."
 
 #: data/coupon-fields/url-coupons.php:29
 msgid "Redirect to URL"
-msgstr ""
+msgstr "Przekieruj na URL"
 
 #: data/coupon-fields/url-coupons.php:30
 msgid ""
@@ -410,20 +646,27 @@ msgid ""
 "foo={acfw_coupon_error_message}, then test the \"foo\" query arg to get the "
 "message if there is one."
 msgstr ""
+"Przekieruje użytkownika na podany adres URL po próbie zastosowania kuponu. "
+"Możesz także przekazać argumenty zapytania do URL dla następujących zmiennych: "
+"{acfw_coupon_code}, {acfw_coupon_is_applied} lub {acfw_coupon_error_message} "
+"i zostaną one zastąpione właściwymi danymi. Np. ?foo={acfw_coupon_error_message}, "
+"następnie sprawdź argument zapytania \"foo\", aby otrzymać komunikat, jeśli taki istnieje."
 
 #: data/coupon-fields/url-coupons.php:36
 msgid "Success message"
-msgstr ""
+msgstr "Komunikat sukcesu"
 
 #: data/coupon-fields/url-coupons.php:39 Models/Edit_Coupon.php:373
 msgid ""
 "Message that will be displayed when a coupon has been applied successfully. "
 "Leave blank to use the default message."
 msgstr ""
+"Komunikat wyświetlany po pomyślnym zastosowaniu kuponu. Pozostaw puste, aby "
+"używać domyślnego komunikatu."
 
 #: data/coupon-fields/url-coupons.php:43 Models/Edit_Coupon.php:385
 msgid "Redirect back to origin"
-msgstr ""
+msgstr "Przekieruj z powrotem do źródła"
 
 #: data/coupon-fields/url-coupons.php:46 Models/Edit_Coupon.php:386
 msgid ""
@@ -432,60 +675,72 @@ msgid ""
 "adding the coupon URL as a button in a blog post or a page that you want "
 "your customers to do additional actions."
 msgstr ""
+"Gdy zaznaczone, użytkownik zostanie przekierowany z powrotem na oryginalną "
+"stronę, na której był, po zastosowaniu kuponu do koszyka. Jest to przydatne "
+"przy dodawaniu URL kuponu jako przycisku w poście blogowym lub stronie, na "
+"której chcesz, aby klienci wykonali dodatkowe działania."
 
 #: data/coupon-fields/url-coupons.php:50
 msgid "Defer apply"
-msgstr ""
+msgstr "Odrocz zastosowanie"
 
 #: data/coupon-fields/url-coupons.php:53
 msgid ""
 "When checked, the coupon will not be applied to the cart until its "
 "conditions and/or restrictions are met."
 msgstr ""
+"Gdy zaznaczone, kupon nie zostanie zastosowany do koszyka, dopóki nie zostaną "
+"spełnione jego warunki i/lub ograniczenia."
 
 #: data/coupon-fields/usage-limits.php:8
 msgid "Usage limits"
-msgstr ""
+msgstr "Limity użycia"
 
 #: data/coupon-fields/usage-limits.php:16
 msgid "Usage Limit"
-msgstr ""
+msgstr "Limit użycia"
 
 #: data/coupon-fields/usage-limits.php:19
 msgid "How many times this coupon can be used before it is void"
-msgstr ""
+msgstr "Ile razy ten kupon może być użyty, zanim stanie się nieważny"
 
 #: data/coupon-fields/usage-limits.php:23
 msgid "Usage Limit per User"
-msgstr ""
+msgstr "Limit użycia na użytkownika"
 
 #: data/coupon-fields/usage-limits.php:26
 msgid ""
 "How many times this coupon can be used by an individual user. Uses billing "
 "email for guests, and user ID for logged in users."
 msgstr ""
+"Ile razy ten kupon może być użyty przez pojedynczego użytkownika. Używa "
+"adresu e-mail rozliczeniowego dla gości i ID użytkownika dla zalogowanych "
+"użytkowników."
 
 #: data/coupon-fields/usage-limits.php:30
 msgid "Limit Usage to X Items"
-msgstr ""
+msgstr "Ogranicz użycie do X elementów"
 
 #: data/coupon-fields/usage-limits.php:33
 msgid ""
 "The maximum number of individual items this coupon can apply to when using "
 "product discounts. Leave blank to apply to all qualifying items in cart."
 msgstr ""
+"Maksymalna liczba pojedynczych elementów, do których ten kupon może się "
+"odnosić przy użyciu rabatów produktowych. Pozostaw puste, aby zastosować "
+"do wszystkich kwalifikujących się elementów w koszyku."
 
 #: data/coupon-fields/usage-limits.php:37
 msgid "Reset usage count every"
-msgstr ""
+msgstr "Resetuj licznik użycia co"
 
 #: data/coupon-fields/usage-limits.php:41
 msgid "None"
-msgstr ""
+msgstr "Brak"
 
 #: data/coupon-fields/usage-limits.php:42
 msgid "Yearly"
-msgstr ""
+msgstr "Rocznie"
 
 #: data/coupon-fields/usage-limits.php:43
 msgid "Monthly"
